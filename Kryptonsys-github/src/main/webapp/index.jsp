@@ -21,15 +21,15 @@ html {
 }
 
 body {
-	background-color: #ECEFF1;
+	/* background-color: #ECEFF1;
 	color: #37474F;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
-	font-size: 16px;
+	 font-size: 16px;  */
 }
 
 h1, h2, h3 {
-	font-weight: 200;
+	/* font-weight: 200; */
 }
 
 .grid-item {
