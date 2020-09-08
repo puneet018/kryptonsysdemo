@@ -2161,21 +2161,20 @@ p {
 	background-repeat: no-repeat;
     background-position: center;
     background-image: url(../image/bg_img/section-bg-7.jpeg);
-    background-size: cover;
+    background-size: 95%;
+    background-position-y: 0%;
 }
 
 .section.techno{
 	background-repeat: no-repeat;
     background-position: center;
     background-image: url(../image/bg_img/section-bg-1.jpeg);
-    background-size: cover;
 }
 
 .section.our_team{
 	background-repeat: no-repeat;
     background-position: center;
     background-image: url(../image/bg_img/section-bg-6.jpeg);
-    background-size: cover;
 }
 
 	
@@ -2194,8 +2193,8 @@ p {
 .section.accent.light {
 	background-image: url(../image/bg_img/section-bg-5.jpeg);
     background-repeat: no-repeat;
-    background-position: 100% 80%;
-    background-size: cover; 
+    background-position: 100% 50%;
+    background-size: 60%; 
 }
 
 .section.help {
@@ -2322,7 +2321,6 @@ p {
 	background-repeat: no-repeat;
     background-position: center;
     background-image: url(../image/bg_img/section-bg-4.jpeg);
-    background-size: cover;
 }
 
 .link {

@@ -1,0 +1,108 @@
+div .set-mrg {
+	margin-top: 12%;
+}
+
+div .panel-heading {
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.search-box {
+	text-align: center;
+}
+
+.s-display {
+	display: inline;;
+}
+
+.sb-width {
+	width: 30%;
+}
+
+.a {
+	font-size: 57px;
+	color: rgba(0, 0, 0, 0.25);
+}
+
+.b {
+	width: auto;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.content {
+	height: 1645px;
+	background-color: rgb(122, 201, 224);;
+}
+
+.parallax-bg {
+	padding: 268px 0;
+	background-image: url(../image/bg_img/bg-img1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+
+.parallax-bg h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 70px;
+	font-family: Arial;
+}
+
+.parallax-bg h2, h4 {
+	text-align: center;
+	color: #fff;
+	font-weight: 800;
+	font-family: Arial;
+}
+
+h1 {
+	color: rgba(40, 96, 144, 0.62);
+}
+
+.container {
+	margin-top: -125px;
+}
+
+.small-containers {
+	height: 300px;
+}
+
+.small-container1 {
+	background-color: rgba(100, 149, 237, 0.91);
+}
+
+.small-container2 {
+	background-color: rgba(168, 185, 25, 0.85);
+}
+
+.small-container3 {
+	background-color: rgba(169, 66, 133, 0.89);
+}
+
+.small-containers h4 {
+	position: inherit;
+	top: -33px;
+	right: -90px;
+	font-size: 25px;
+	font-weight: 900;
+}
+
+.small-container1 h4 {
+	color: #719ded;
+}
+
+.small-container2 h4 {
+	color: #a1bb36;
+}
+
+.small-container3 h4 {
+	color: #9f3d7a;
+}

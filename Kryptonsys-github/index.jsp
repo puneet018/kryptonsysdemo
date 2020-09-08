@@ -487,6 +487,75 @@ h1, h2, h3 {
 					</div>
 					</article>
 				</div>
+				<div class="grid-item">
+					<article class="material-card Blue-Grey">
+					<h2>
+						<span>Name</span> <strong> <i
+							class="fa fa-fw fa-star"></i> Work
+						</strong>
+					</h2>
+					<div class="mc-content">
+						<div class="img-container">
+							<img class="img-responsive" src="image/team-pics/amit-1.jpeg">
+						</div>
+						<div class="mc-description">Description</div>
+					</div>
+					<a class="mc-btn-action"> <i class="fa fa-bars"></i>
+					</a>
+					<div class="mc-footer">
+						<h4>Social</h4>
+						<a class="fa fa-fw fa-facebook"></a> <a
+							class="fa fa-fw fa-twitter"></a> <a class="fa fa-fw fa-linkedin"></a>
+						<a class="fa fa-fw fa-google-plus"></a>
+					</div>
+					</article>
+				</div>
+				<div class="grid-item">
+					<article class="material-card Blue-Grey">
+					<h2>
+						<span>Name</span> <strong> <i
+							class="fa fa-fw fa-star"></i> Work
+						</strong>
+					</h2>
+					<div class="mc-content">
+						<div class="img-container">
+							<img class="img-responsive" src="image/team-pics/amit-1.jpeg">
+						</div>
+						<div class="mc-description">Description</div>
+					</div>
+					<a class="mc-btn-action"> <i class="fa fa-bars"></i>
+					</a>
+					<div class="mc-footer">
+						<h4>Social</h4>
+						<a class="fa fa-fw fa-facebook"></a> <a
+							class="fa fa-fw fa-twitter"></a> <a class="fa fa-fw fa-linkedin"></a>
+						<a class="fa fa-fw fa-google-plus"></a>
+					</div>
+					</article>
+				</div>
+				<div class="grid-item">
+					<article class="material-card Blue-Grey">
+					<h2>
+						<span>Name</span> <strong> <i
+							class="fa fa-fw fa-star"></i> Work
+						</strong>
+					</h2>
+					<div class="mc-content">
+						<div class="img-container">
+							<img class="img-responsive" src="image/team-pics/amit-1.jpeg">
+						</div>
+						<div class="mc-description">Description</div>
+					</div>
+					<a class="mc-btn-action"> <i class="fa fa-bars"></i>
+					</a>
+					<div class="mc-footer">
+						<h4>Social</h4>
+						<a class="fa fa-fw fa-facebook"></a> <a
+							class="fa fa-fw fa-twitter"></a> <a class="fa fa-fw fa-linkedin"></a>
+						<a class="fa fa-fw fa-google-plus"></a>
+					</div>
+					</article>
+				</div>
 			</div>
 			</section>
 		</div>
@@ -498,9 +567,9 @@ h1, h2, h3 {
 		<div class="w-container share-wrapper">
 			<div class="w-row">
 				<div class="w-col w-col-6 right-border">
-					<h2 class="footer-heading">Spread the Word</h2>
-					<p class="footer-paragraph">Share it with some friends.</p>
-					<div class="social-wrapper">
+					<h2 class="footer-heading">Contacts Us</h2>
+					<p class="footer-paragraph"></p>
+					<!-- <div class="social-wrapper">
 						<div class="w-widget w-widget-facebook social-big">
 							<iframe
 								src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Finteractions.webflow.com%2F&amp;layout=box_count&amp;locale=en_US&amp;action=like&amp;show_faces=false&amp;share=false"
@@ -520,6 +589,9 @@ h1, h2, h3 {
 								data-recommendations="false" id="___plusone_0"
 								style="width: 50px; height: 60px;"></div>
 						</div>
+					</div> -->
+					<div class="contact_details">
+						Mobile No. 
 					</div>
 				</div>
 				<div class="w-col w-col-6">
