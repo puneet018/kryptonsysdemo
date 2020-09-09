@@ -164,7 +164,7 @@ h1, h2, h3 {
 		</div>
 	</div>
 	<div class="section black">
-		<div class="w-container sec_bg_section">
+		<div class="w-container ">
 			<h2 class="white-heading">HOW WE WORKS?</h2>
 			<center><h3 class="white-heading">We works in 3 simple steps :-</h3></center> 
 			<div class="w-clearfix works-row ">
