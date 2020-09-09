@@ -119,7 +119,7 @@ h1, h2, h3 {
 	</div>
 	<div class="section section_2" id="more" data-scroll="mid"
 		data-ix="scroll-text-fade-away">
-		<div class="w-container">
+		<div class="w-container sec_bg_section">
 			<h4>We create</h4><h2>simple, responsive &amp; beautiful <br/>Website &amp; Application</h2>
 			<div class="w-row" style="background-color:#ffffffcc">
 				<div class="w-col w-col-3 feature-pill" data-ix="scale-on-scroll">
@@ -164,7 +164,7 @@ h1, h2, h3 {
 		</div>
 	</div>
 	<div class="section black">
-		<div class="w-container">
+		<div class="w-container sec_bg_section">
 			<h2 class="white-heading">HOW WE WORKS?</h2>
 			<center><h3 class="white-heading">We works in 3 simple steps :-</h3></center> 
 			<div class="w-clearfix works-row ">
@@ -226,7 +226,7 @@ h1, h2, h3 {
 		</div>
 	</div> -->
 	<div class="section techno">
-		<div class="w-container">
+		<div class="w-container sec_bg_section">
 		<h2 >TOP Technologies</h2>
 			<center><h3 class="">These are the technologies that we use in our project and makes the Beautiful and Responsive UI(User Interface).</h3></center> 
 		<!-- <h4></h4><h2></h2> -->
@@ -370,7 +370,7 @@ h1, h2, h3 {
 	</div>
 	<!--  TEAM Section  -->
 	<div class="section lightgrey our_team " id="our_team">
-		<div class="w-container">
+		<div class="w-container sec_bg_section">
 
 			<section class="container">
 			<div class="page-header">
